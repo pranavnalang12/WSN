@@ -1,0 +1,27 @@
+take this mobile phone , celltower,central office server ,home router , hub-pt, router1941 , server-pt 
+
+connect with the coaxial cable tower to central office (blue cable)  
+
+select 3rd (conical) number cable backboan and connect it with hub ethernet 0 
+
+then take copper cross over connect to home router  gigainternet  and hub fast internet  
+
+now connect coper stright through cable from hub fastenthernet to router giga internet 
+
+select copper cross over router giga inteenet to server fastenternet 
+
+now click on router1941 > config > giga internet 0/0 > on > ip 10.0.0.1> click default gateway 
+
+now click on home router > internet > select static > ip 10.0.0.2 > subnet click > default getway 10.0.0.1
+
+now click on mobile phone > desktop > static > ip 10.0.0.3 > click subnet > default gateway > 10.0.0.1> 
+
+now router 1941> giga internet 0/1 > on > ip 20.0.0.1 > subnet > 
+
+click on server > ipconfig > static > 20.0.0.2 > default get 20.0.0.1
+
+optional 
+
+now go mobile > cmd > ping 20.0.0.1
+
+mobile > web brouser > url 20.0.0.2 > go 

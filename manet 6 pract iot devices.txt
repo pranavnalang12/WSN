@@ -1,0 +1,11 @@
+step select home getway 
+then mobile phone 
+add iot devices fan air door etc 
+click on devices 
+diplay name give name select gateway "dhcp" for ipv4/6 then iot server "home" 
+then I/o config in "advamce" select "PT-IOT-NM-1W" do same for all 
+
+for mobile 
+click on home getway > config > wireless > copy the ssid name 
+
+then click on mobile and wireless0 >add ssid > the name copied > then click on desktop > iot monitor > copy address and remebeer name and password > then desktop > web browser > add ip in url > enter id password > now you will see all the deviecs and you can control them 

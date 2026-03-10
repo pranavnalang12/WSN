@@ -1,0 +1,19 @@
+take WRT300N router and 2 lap and 2 pc 
+add wire less ports
+go to every pc and lap copy mac address 
+
+0009.7C78.651E
+000A.F391.7D40
+0060.3EA2.2B7D
+0002.173D.A157
+
+now separate them with colan
+
+00:09:7C:78:65:1E
+00:0A:F3:91:7D:40
+00:60:3E:A2:2B:7D
+00:02:17:3D:A1:57
+
+now go to wireless router > gui > wireless > wireless mac filter > enable > 3rd option 
+
+add this macs 

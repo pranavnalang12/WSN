@@ -1,0 +1,10 @@
+simple adhoc network 
+
+
+steps
+select  wireless devices select routers 2 "WRT300N" connect them with copper cross over cable ethrnet 1 to 1.
+click on roter 1 > gui > wireless > give network name  "cs" > wireless security "wpa2 personal"> "passphase" give password > save setting > administration > enabled the remote management > save setting 
+
+do same for router 2 
+
+then connect them in pc deskstp wirelwss 
